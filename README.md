@@ -1,9 +1,6 @@
 ### Hi there 👋
-![Adnane's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakhaladnane&show_icons=true&theme=highcontrast)
+![Adnane's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakhaladnane&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhaladnane&size_weight=0.5&count_weight=0.5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhaladnane&size_weight=0.5&count_weight=0.5)
-
-[![Adnane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adnanlk2023)](https://github.com/lakhaladnane/github-readme-stats)
 
 <!--
 **lakhaladnane/lakhaladnane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
