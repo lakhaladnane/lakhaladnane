@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Adnane's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanelakhal)](https://github.com/adnanelakhal/github-readme-stats)
 
 <!--
 **lakhaladnane/lakhaladnane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
